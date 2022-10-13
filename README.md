@@ -1,1 +1,1 @@
-# dsaalgorith
+# dsaalgorithm is a good thing to learn.
